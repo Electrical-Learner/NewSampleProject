@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd89192c-0e47-4b87-aa92-f40d761c0830" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oops/inheritence/diamondproblem/Face.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oops/inheritence/diamondproblem/FaceOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oops/inheritence/diamondproblem/FaceTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oops/inheritence/diamondproblem/Inheritence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oops/inheritence/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/oops/inheritence/diamondproblem/Inheritence.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Acer/IdeaProjects/NewSampleProject/src/main/java/org/example/oops/inheritence/diamondproblem",
+    "last_opened_file_path": "C:/Users/Acer/IdeaProjects/NewSampleProject",
     "onboarding.tips.debug.path": "C:/Users/Acer/IdeaProjects/NewSampleProject/src/main/java/org/example/Main.java",
     "two.files.diff.last.used.folder": "C:/Users/Acer/IdeaProjects/NewSampleProject/src/main/java/org/example/oops"
   }
@@ -51,7 +48,7 @@
       <recent name="C:\Users\Acer\IdeaProjects\NewSampleProject\src\main\java\org\example\polymorphism\overloading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Office">
+  <component name="RunManager" selected="Application.BaseClass">
     <configuration name="AutoWidening" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.casting.primitivecasting.AutoWidening" />
       <module name="NewSampleProject" />
@@ -65,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Birds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.casting.derived.upcast.Birds" />
+    <configuration name="BaseClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.oops.inheritence.BaseClass" />
       <module name="NewSampleProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.casting.derived.upcast.*" />
+          <option name="PATTERN" value="org.example.oops.inheritence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExplicitNarrowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.casting.primitivecasting.ExplicitNarrowing" />
+    <configuration name="Birds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.casting.derived.upcast.Birds" />
       <module name="NewSampleProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.casting.primitivecasting.*" />
+          <option name="PATTERN" value="org.example.casting.derived.upcast.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaseClass" />
         <item itemvalue="Application.Office" />
         <item itemvalue="Application.Birds" />
         <item itemvalue="Application.org.example.casting.primitive.ExplicitNarrowing" />
         <item itemvalue="Application.AutoWidening" />
-        <item itemvalue="Application.ExplicitNarrowing" />
       </list>
     </recent_temporary>
   </component>
