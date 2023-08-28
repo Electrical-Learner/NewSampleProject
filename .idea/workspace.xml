@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fd89192c-0e47-4b87-aa92-f40d761c0830" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/oops/inheritence/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/oops/inheritence/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/collection/SampleOfPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/collection/SampleOfPriorityQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2T5wbhUfbNSNEtBhq9YC1bh8BPp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -48,9 +51,48 @@
       <recent name="C:\Users\Acer\IdeaProjects\NewSampleProject\src\main\java\org\example\polymorphism\overloading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SetExample">
-    <configuration name="GetParticularValueInLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collection.GetParticularValueInLinkedList" />
+  <component name="RunManager" selected="Application.MapExample">
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collection.arraylist.ArrayListExample" />
+      <module name="NewSampleProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.collection.arraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssertExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.assertkeyword.AssertExample" />
+      <module name="NewSampleProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.assertkeyword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.map.MapExample" />
+      <module name="NewSampleProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collection.set.PersonInput" />
       <module name="NewSampleProject" />
       <extension name="coverage">
         <pattern>
@@ -62,51 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueUsingTwoStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collection.QueueUsingTwoStack" />
+    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collection.queue.QueueExample" />
       <module name="NewSampleProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.collection.set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SampleOfPriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collection.SampleOfPriorityQueue" />
-      <module name="NewSampleProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.collection.set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collection.set.SetExample" />
-      <module name="NewSampleProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.collection.set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserOperationArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collection.UserOperationArrayList" />
-      <module name="NewSampleProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.collection.set.*" />
+          <option name="PATTERN" value="org.example.collection.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SetExample" />
-        <item itemvalue="Application.SampleOfPriorityQueue" />
-        <item itemvalue="Application.UserOperationArrayList" />
-        <item itemvalue="Application.GetParticularValueInLinkedList" />
-        <item itemvalue="Application.QueueUsingTwoStack" />
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.AssertExample" />
+        <item itemvalue="Application.PersonInput" />
+        <item itemvalue="Application.QueueExample" />
       </list>
     </recent_temporary>
   </component>

@@ -1,13 +1,11 @@
 package org.example.collection;
 
-import com.sun.source.tree.UsesTree;
-
 import java.util.*;
-
+import java.util.PriorityQueue;
 public class SampleOfPriorityQueue {
 
     public static void main(String args[]) {
-        PriorityQueue<String> queue = new PriorityQueue<>();
+        Queue<String> queue = new PriorityQueue<>();
         queue.add("Sharma");
         queue.add("Vijay");
         queue.add("Shankar");
